@@ -10,7 +10,8 @@
 /coverage
 
 # production
-/build
+/frontend/build
+/frontend/node_modules
 
 # misc
 .DS_Store
