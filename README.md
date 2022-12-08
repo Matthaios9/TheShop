@@ -1,6 +1,6 @@
-This is a custom eCommerce platform with React, Redux, Node, Express & MongoDB
-An actual real-world project built in a linear and progressive manner
-Full featured shopping cart with PayPal & credit/debit payments
-Admin area to manage customers, products & orders
-Product search, carousel and pagination functionality
-Product rating & review system 
+This is a custom eCommerce platform with React, Redux, Node, Express & MongoDB and
+an actual real-world project built in a linear and progressive manner.
+Implemented full featured shopping cart with PayPal & credit/debit payments and an
+admin area to manage customers, products & orders.
+Some funtionalities of this application are: product search, carousel, product rating, review system and pagination.
+
